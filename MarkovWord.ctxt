@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=MarkovWord
+comment1.params=num
+comment1.target=MarkovWord(int)
+comment2.params=seed
+comment2.target=void\ setRandom(int)
+comment3.params=text
+comment3.target=void\ setTraining(java.lang.String)
+comment4.params=numWords
+comment4.target=java.lang.String\ getRandomText(int)
+comment5.params=words\ target\ start
+comment5.target=int\ indexOf(java.lang.String[],\ WordGram,\ int)
+comment6.params=array1\ start\ target
+comment6.target=boolean\ helpCompare(java.lang.String[],\ int,\ WordGram)
+comment7.params=
+comment7.target=void\ testIndexOf()
+comment8.params=kGram
+comment8.target=java.util.ArrayList\ getFollows(WordGram)
+numComments=9
